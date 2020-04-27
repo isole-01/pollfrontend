@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "79c020d954c758eaaf6f4faefc0ac83f",
+    "revision": "d317696600f6b9df8f261514fc8a6ee0",
     "url": "/pollfrontend/index.html"
   },
   {
-    "revision": "77acdac0ccbd380f58ed",
+    "revision": "4d75b764f9eb5861a02e",
     "url": "/pollfrontend/static/css/main.802517b0.chunk.css"
   },
   {
-    "revision": "4a07851831bb39053812",
-    "url": "/pollfrontend/static/js/2.19ba0f67.chunk.js"
+    "revision": "e47e42594d427f5d9620",
+    "url": "/pollfrontend/static/js/2.d5497837.chunk.js"
   },
   {
     "revision": "ef76a770f9dc5e00cf53d94b664c7e51",
-    "url": "/pollfrontend/static/js/2.19ba0f67.chunk.js.LICENSE.txt"
+    "url": "/pollfrontend/static/js/2.d5497837.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "77acdac0ccbd380f58ed",
-    "url": "/pollfrontend/static/js/main.6253c218.chunk.js"
+    "revision": "4d75b764f9eb5861a02e",
+    "url": "/pollfrontend/static/js/main.bfe85829.chunk.js"
   },
   {
     "revision": "1d6858039bbceaace3ff",
